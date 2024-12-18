@@ -11,7 +11,7 @@ Here you can find my [CV](vita_Fall_2024.pdf)
 ---
 New edition of my book [*Regression Basics*](https://www.routledge.com/9781032393186)
 
-![](rb3e_cov.jpg)
+![](rb3e_cov2.jpg)
 
 Using an accessible, nontechnical approach, the third edition of Regression Basics introduces readers to the fundamentals of statistical regression. Accessible to anyone with an introductory statistics background, the book draws on engaging examples using real-world data and software programs SPSS®, Stata®, and R to illustrate the key concepts of the least squares regression methodology.
 
