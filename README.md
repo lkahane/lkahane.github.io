@@ -9,7 +9,7 @@
 Here you can find my [CV](vita_Fall_2024.pdf)
 
 ---
-New edition of my book *Regression Basics*
+New edition of my book [*Regression Basics*](https://www.routledge.com/9781032393186)
 
 ![](rb3e_cov.jpg)
 
