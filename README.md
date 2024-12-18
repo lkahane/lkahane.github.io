@@ -1,5 +1,7 @@
 ## **Welcome to my webpage!**
 
+![](mypic.jpg)
+
 ---
 
 ## *I am the Michael A. Ruane Distinguished Chair in Economics at Providence College.*
