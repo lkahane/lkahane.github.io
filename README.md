@@ -11,3 +11,4 @@ Here you can find my [CV](vita_Fall_2024.pdf)
 ---
 New edition of my book *Regression Basics*
 
+!(RB3E_full_cover2.jpg)
