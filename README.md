@@ -17,10 +17,11 @@ Using an accessible, nontechnical approach, the third edition of Regression Basi
 
 The book emphasizes the intuition of regression methodology and provides a hands-on approach, as well as helpful end-of-chapter summaries and questions to consolidate learning. This new edition has been substantially revised and enhanced, with features including the following:
 
-Fully updated to show procedures in R, SPSS®, and Stata®
-Color images and substantially revised visual presentation
-A suite of online resources including data sets, software instructions, and PowerPoint slides for instructors
-New and updated examples throughout
-Expanded material to help students overcome "math anxiety"
-Expanded material on multicollinearity, heteroskedasticity, and robust standard errors
+-Fully updated to show procedures in R, SPSS®, and Stata®
+-Color images and substantially revised visual presentation
+-A suite of online resources including data sets, software instructions, and PowerPoint slides for instructors
+-New and updated examples throughout
+-Expanded material to help students overcome "math anxiety"
+-Expanded material on multicollinearity, heteroskedasticity, and robust standard errors
+
 This well-paced book is ideal for advanced undergraduate and graduate students focusing on quantitative methods, research design, and statistical regression in the social and behavioral sciences, political science, and economics.
