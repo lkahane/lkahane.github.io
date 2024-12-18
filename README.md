@@ -17,7 +17,7 @@ Using an accessible, nontechnical approach, the third edition of Regression Basi
 
 The book emphasizes the intuition of regression methodology and provides a hands-on approach, as well as helpful end-of-chapter summaries and questions to consolidate learning. This new edition has been substantially revised and enhanced, with features including the following:
 
--Fully updated to show procedures in R, SPSS®, and Stata®
+-Fully updated to show procedures in **R, SPSS®, and Stata®**
 
 -Color images and substantially revised visual presentation
 
