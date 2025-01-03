@@ -30,3 +30,8 @@ The book emphasizes the intuition of regression methodology and provides a hands
 * Expanded material on multicollinearity, heteroskedasticity, and robust standard errors
 
 This well-paced book is ideal for advanced undergraduate and graduate students focusing on quantitative methods, research design, and statistical regression in the social and behavioral sciences, political science, and economics.
+
+---
+
+### I am the founding editor of the [*Journal of Sports Economics*](https://journals.sagepub.com/home/jse) and served as the editor-in-chief for 16 years.
+
