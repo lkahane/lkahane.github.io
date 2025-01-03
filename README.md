@@ -1,6 +1,6 @@
 ## **Welcome to my webpage!**
 
-<img src="mypic.jpg" width="110" height="140">
+<img src="mypic.jpg" width="120" height="150">
 
 ---
 
