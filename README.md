@@ -11,7 +11,7 @@ Here you can find my [CV](vita_Fall_2024.pdf)
 ---
 ### New edition of my book [*Regression Basics*](https://www.routledge.com/9781032393186)
 
-<img src="rb3e_cov.jpg" width="120" height="150">
+[<img src="rb3e_cov.jpg" width="120" height="150">](https://www.routledge.com/9781032393186)
 
 Using an accessible, nontechnical approach, the third edition of Regression Basics introduces readers to the fundamentals of statistical regression. Accessible to anyone with an introductory statistics background, the book draws on engaging examples using real-world data and software programs SPSS®, Stata®, and R to illustrate the key concepts of the least squares regression methodology.
 
@@ -35,5 +35,5 @@ This well-paced book is ideal for advanced undergraduate and graduate students f
 
 ### I am the founding editor of the [*Journal of Sports Economics*](https://journals.sagepub.com/home/jse) and served as the editor-in-chief for 16 years.
 
-<img src="jsea_26_1.jpg" width="120" height="150">
+[<img src="jsea_26_1.jpg" width="120" height="150">](https://journals.sagepub.com/home/jse)
 
