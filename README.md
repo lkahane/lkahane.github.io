@@ -6,12 +6,12 @@
 
 ### I am the *Michael A. Ruane Distinguished Chair in Economics* at Providence College.
 
-Here you can find my [CV](vita_Fall_2024.pdf)
+Here you can find my [**CV**](vita_Fall_2024.pdf)
 
 ---
 ### New edition of my book [*Regression Basics*](https://www.routledge.com/9781032393186)
 
-(Data sets used throughout the book and software instructions can be downloaded [here](RB3E_datafiles_and_software_instructions.zip))
+(Data sets used throughout the book and software instructions can be downloaded [**here**](RB3E_datafiles_and_software_instructions.zip))
 
 [<img src="rb3e_cov.jpg" width="120" height="150">](https://www.routledge.com/9781032393186)
 
