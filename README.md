@@ -45,7 +45,8 @@ I am the founding editor of the [*Journal of Sports Economics*](https://journals
 ---
 
 ## 📫 Contact
-- Email: lkahane@providence.edu  
-- Personal Email: leo.kahane@gmail.com
+- Academic email: [lkahane@providence.edu](mailto:lkahane@providence.edu) 
+
+- Personal email: : [leo.kahane@gmail.com](mailto:yourname@gmail.com)
 - [Google Scholar](https://scholar.google.com/citations?user=_Mdqp7cAAAAJ&hl=en)
 - LinkedIn: [linkedin.com/in/leo-kahane-44ba5690](https://www.linkedin.com/in/leo-kahane-44ba5690/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIlnwj6UgQDqRLsT07nn3fw%3D%3D)
