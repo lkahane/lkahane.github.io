@@ -13,7 +13,7 @@ Here you can find my [**CV**](vita_Fall_2024.pdf).
 
 ---
 
-## 📘 New Edition: *Regression Basics*
+## 📘 New Edition: [*Regression Basics*](https://www.routledge.com/9781032393186)
 [<img src="rb3e_cov.jpg" width="120" height="150">](https://www.routledge.com/9781032393186)
 
 Data sets and software instructions: [**Download here**](RB3E_datafiles_and_software_instructions.zip)
