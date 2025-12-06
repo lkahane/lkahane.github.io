@@ -1,7 +1,7 @@
 # Welcome to My Webpage! 🎓
 
 <p align="center">
-  <img src="lhk2.jpg" style="width:250px; height:auto;">
+  <img src="lhk2.jpg" style="width:225px; height:auto;">
 </p>
 
 ---
