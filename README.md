@@ -1,7 +1,7 @@
 # Welcome to My Webpage! 🎓
 
 <p align="center">
-  <img src="mypic.jpg" width="120" height="150">
+  <img src="lhk2.jpg" width="120" height="150">
 </p>
 
 ---
