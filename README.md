@@ -1,41 +1,40 @@
-## **Welcome to my webpage!**
+# Welcome to My Webpage! 🎓
 
-<img src="mypic.jpg" width="120" height="150">
+<p align="center">
+  <img src="mypic.jpg" width="120" height="150">
+</p>
+
+---
+
+## About Me
+> Michael A. Ruane Distinguished Chair in Economics, Providence College
+
+Here you can find my [**CV**](vita_Fall_2024.pdf).
 
 ---
 
-### I am the *Michael A. Ruane Distinguished Chair in Economics* at Providence College.
-
-Here you can find my [**CV**](vita_Fall_2024.pdf)
-
----
-### New edition of my book [*Regression Basics*](https://www.routledge.com/9781032393186)
-
-(Data sets used throughout the book and software instructions can be downloaded [**here**](RB3E_datafiles_and_software_instructions.zip))
-
+## 📘 New Edition: *Regression Basics*
 [<img src="rb3e_cov.jpg" width="120" height="150">](https://www.routledge.com/9781032393186)
 
-Using an accessible, nontechnical approach, the third edition of Regression Basics introduces readers to the fundamentals of statistical regression. Accessible to anyone with an introductory statistics background, the book draws on engaging examples using real-world data and software programs SPSS®, Stata®, and R to illustrate the key concepts of the least squares regression methodology.
+Data sets and software instructions: [**Download here**](RB3E_datafiles_and_software_instructions.zip)
 
-The book emphasizes the intuition of regression methodology and provides a hands-on approach, as well as helpful end-of-chapter summaries and questions to consolidate learning. This new edition has been substantially revised and enhanced, with features including the following:
-
-* Fully updated to show procedures in **R, SPSS®, and Stata®**
-
-* Color images and substantially revised visual presentation
-
-* A suite of online resources including data sets, software instructions, and PowerPoint slides for instructors
-
-* New and updated examples throughout
-
-* Expanded material to help students overcome "math anxiety"
-  
-* Expanded material on multicollinearity, heteroskedasticity, and robust standard errors
-
-This well-paced book is ideal for advanced undergraduate and graduate students focusing on quantitative methods, research design, and statistical regression in the social and behavioral sciences, political science, and economics.
+**Highlights of the 3rd Edition:**
+- **Updated procedures** in R, SPSS®, and Stata®
+- **Color visuals** and improved design
+- **Online resources**: datasets, instructions, slides
+- **Expanded examples** and material on math anxiety
+- **New coverage** of multicollinearity, heteroskedasticity, and robust errors
 
 ---
 
-### I am the founding editor of the [*Journal of Sports Economics*](https://journals.sagepub.com/home/jse) and served as the editor-in-chief for 16 years.
+## 📰 Journal of Sports Economics
+I am the founding editor of the [*Journal of Sports Economics*](https://journals.sagepub.com/home/jse) and served as editor-in-chief for 16 years.
 
 [<img src="jsea_26_1.jpg" width="120" height="150">](https://journals.sagepub.com/home/jse)
 
+---
+
+## 📫 Contact
+- Email: lkahane@providence.edu  
+- Email: leo.kahane@gmail.com
+- LinkedIn: [linkedin.com/in/leo-kahane-44ba5690](https://www.linkedin.com/in/leo-kahane-44ba5690/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIlnwj6UgQDqRLsT07nn3fw%3D%3D)
