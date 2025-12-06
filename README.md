@@ -37,6 +37,11 @@ I am the founding editor of the [*Journal of Sports Economics*](https://journals
 
 - [Compensating wage differentials: Evidence from the National Hockey League](https://doi.org/10.1016/j.econlet.2024.111831) – *Economics Letters*, 2024  
 
+- [The Impact of the Massachusetts 2012 Right to Repair Law on Small, Independent Auto Repair Shops](https://doi.org/10.1080/13504851.2021.1896669) – *Applied Economics Letters*, 2022
+
+- [Politicizing the Mask: Political, Economic and Demographic Factors Affecting Mask Wearing Behavior in the United States](https://doi.org/10.1057/s41302-020-00186-0) – *Eastern Economic Journal*, 2021
+
+
 ---
 
 ## 📫 Contact
