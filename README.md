@@ -33,6 +33,11 @@ I am the founding editor of the [*Journal of Sports Economics*](https://journals
 [<img src="jsea_26_1.jpg" width="120" height="150">](https://journals.sagepub.com/home/jse)
 
 ---
+## 📄 Recent Publications
+
+- [Compensating wage differentials: Evidence from the National Hockey League](https://doi.org/10.1016/j.econlet.2024.111831) – *Economics Letters*, 2024  
+
+---
 
 ## 📫 Contact
 - Email: lkahane@providence.edu  
