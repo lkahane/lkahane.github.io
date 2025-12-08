@@ -9,7 +9,7 @@
 ## About Me
 > Michael A. Ruane Distinguished Chair in Economics, Providence College
 
-Here you can find my [**CV**](vita_Fall_2024.pdf).
+Here you can find my [**CV**](Kahane_Fall_2025.pdf).
 
 ---
 
