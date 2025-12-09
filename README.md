@@ -1,4 +1,4 @@
-# Welcome to My Webpage! 🎓
+# Welcome to My Webpage!
 
 <p align="center">
   <img src="lhk2.jpg" style="width:220px; height:auto;">
